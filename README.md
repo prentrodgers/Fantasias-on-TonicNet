@@ -7,4 +7,4 @@ This repo contains a collection of codes to do two things:
   
 Examples of the results can be heard here: http://ripnread.com/sample-page/blog/
 
-To realize the pieces, you will need to install csound, and obtain the instrument samples from another of my repos: Diamond_Music.
+To realize the pieces, you will need to install csound, and obtain the instrument samples from another of my repos: Diamond_Music here: https://github.com/prentrodgers/Diamond_Music
